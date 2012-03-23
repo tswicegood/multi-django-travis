@@ -1,2 +1,4 @@
 #!/bin/bash
 pip install Django==$DJANGO_VERSION
+
+# Install the rest of the requirements files and/or your project here
